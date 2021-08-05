@@ -44,33 +44,51 @@
   * Uso de FireStore de Firebase
   * Ejercicio todo list
   * [repo](https://github.com/remotestack377/ionic-firestore-crud)
-## Clase 10 [video](https://www.youtube.com/watch?v=3jDGLHM5eQo&t=80s)
+## Clase 10 [video]
+  PRUEBA:
+  - [Ronny Cajas](https://github.com/stealth14/dam-prueba-1)
+  - [Diego Bacuy](https://github.com/DiegoJavb/prueba1)
+  - [Josselyn Troya](https://github.com/Josselyn-Troya/prueba-ionic-firebase-chat)
+  - [Eddy Hipo](https://github.com/Eddy-Hipo/Hipo-Prueba-Ionic)
+  - [Carlos Maldonado](https://github.com/CarlosMaldonado1998/Ionic-chat-prueba)
+  - [Elvis Agila](https://github.com/elvis926/chat-ionic)
+  - [Yomara Diaz](https://github.com/YomaraDiaz06/Prueba1_ApliMovil)
+## Clase 11 [video](https://www.youtube.com/watch?v=3jDGLHM5eQo&t=80s)
   * CAP
   * Bases de Datos SQL y NoSQL para entornos moviles
   * [Ionic 4 PHP, MySQL](https://medium.com/ampersand-academy/ionic-4-add-to-cart-example-using-php-mysql-b2b321a5ab1e)
   * Ejercicios CRUD con MySQL
   * [repo](https://github.com/bharathirajatut/ionic4-higher-example/tree/master/cart-crud-php-mysql-example)
-## Clase 11 [video](https://www.youtube.com/watch?v=0Kdb2Qx-_y4)
+## Clase 12 [video](https://www.youtube.com/watch?v=0Kdb2Qx-_y4)
   * Progressive Web Apps PWA
   * ¿Que arquitectura es la mejor para un proyesto?
   * ¿Por que crear una App?
   * [plugings Cordova](https://cordova.apache.org/)
-## Clase 12 [video](https://www.youtube.com/watch?v=4Jw1J7dWuS4)
+## Clase 13 [video](https://www.youtube.com/watch?v=4Jw1J7dWuS4)
   * Google Maps
   * Google Cloud Platform
   * [Google Maps, Places y Autocomplete en tu Ionic 5 app](https://medium.com/@alejandrolp1986/google-maps-places-y-autocomplete-en-tu-ionic-5-app-8e29b3fd6804)
-## Clase 13 [video](https://www.youtube.com/watch?v=FeMe63RbRu8)
+## Clase 14 [video](https://www.youtube.com/watch?v=FeMe63RbRu8)
   * Openstreet
-  * Taller Calificado
-## Clase 14 [video](https://www.youtube.com/watch?v=CszrTjPc3ic&t=7728s)
+  * Taller Calificado:
+## Clase 15 [video](https://www.youtube.com/watch?v=CszrTjPc3ic&t=7728s)
   * Almacenar archivos en Storage de firebase
   * [Ionic 5 Firebase File/Image Upload with Progress Bar Tutorial with Example](https://www.positronx.io/ionic-firebase-file-image-upload-with-progress-bar-tutorial-with-example/)
-## Clase 15 [video](https://www.youtube.com/watch?v=84_wY-ShJs8&t=2461s)
+## Clase 16 [video](https://www.youtube.com/watch?v=84_wY-ShJs8&t=2461s)
   * Firebase Hosting
-## Clase 16 [video](https://www.youtube.com/watch?v=ttJJrvgraG4)
+## Clase 17 [video](https://www.youtube.com/watch?v=ttJJrvgraG4)
   * Repaso de clases para el examen
-## Clase 14 
-  * EXAMEN
+## Clase 18 
+  EXAMEN:
+   * [Ronny Cajas](https://github.com/stealth14/dam-examen)
+   * [Diego Bacuy](https://github.com/DiegoJavb/examen_apps)
+   * [Josselyn troya](https://github.com/Josselyn-Troya/Examen_B1_Moviles)
+   * [Jonathan Alquinga](https://github.com/Jonathan141999/Examen-DAM)
+   * [Eddy Hipo](https://github.com/Eddy-Hipo/Examen-Hipo-Moviles)
+   * [Carlos Maldonado](https://github.com/CarlosMaldonado1998/Examen-app-moviles)
+   * [Elvis Agila](https://github.com/elvis926/examen_appmoviles)
+   * [Yomara Diaz](https://github.com/YomaraDiaz06/Examen1AplicacionesMovilesYomaraDiaz)
+   * [Stephani Muñoz](https://github.com/StephyMunoz/ExamenADD)
   
   
   
