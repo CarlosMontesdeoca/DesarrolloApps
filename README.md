@@ -1,5 +1,8 @@
 # DesarrolloApps
 
+[zoom](https://cedia.zoom.us/j/89802484423)
+ Clave:  &0i!!%
+
 ## [canal principal]( https://www.youtube.com/channel/UCHwhpSzwPHdDUiiUgNoOwEA/videos)
 
 ## Clase 1 [video](https://www.youtube.com/watch?v=Ra6YAam2xPw&pp=sAQA)
@@ -47,34 +50,27 @@
   * [Ionic 4 PHP, MySQL](https://medium.com/ampersand-academy/ionic-4-add-to-cart-example-using-php-mysql-b2b321a5ab1e)
   * Ejercicios CRUD con MySQL
   * [repo](https://github.com/bharathirajatut/ionic4-higher-example/tree/master/cart-crud-php-mysql-example)
-## Clase 1 [video](https://www.youtube.com/watch?v=Ra6YAam2xPw&pp=sAQA)
-  *
-## Clase 1 [video](https://www.youtube.com/watch?v=Ra6YAam2xPw&pp=sAQA)
-  *
-## Clase 1 [video](https://www.youtube.com/watch?v=Ra6YAam2xPw&pp=sAQA)
-  *
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+## Clase 11 [video](https://www.youtube.com/watch?v=0Kdb2Qx-_y4)
+  * Progressive Web Apps PWA
+  * ¿Que arquitectura es la mejor para un proyesto?
+  * ¿Por que crear una App?
+  * [plugings Cordova](https://cordova.apache.org/)
+## Clase 12 [video](https://www.youtube.com/watch?v=4Jw1J7dWuS4)
+  * Google Maps
+  * Google Cloud Platform
+  * [Google Maps, Places y Autocomplete en tu Ionic 5 app](https://medium.com/@alejandrolp1986/google-maps-places-y-autocomplete-en-tu-ionic-5-app-8e29b3fd6804)
+## Clase 13 [video](https://www.youtube.com/watch?v=FeMe63RbRu8)
+  * Openstreet
+  * Taller Calificado
+## Clase 14 [video](https://www.youtube.com/watch?v=CszrTjPc3ic&t=7728s)
+  * Almacenar archivos en Storage de firebase
+  * [Ionic 5 Firebase File/Image Upload with Progress Bar Tutorial with Example](https://www.positronx.io/ionic-firebase-file-image-upload-with-progress-bar-tutorial-with-example/)
+## Clase 15 [video](https://www.youtube.com/watch?v=84_wY-ShJs8&t=2461s)
+  * Firebase Hosting
+## Clase 16 [video](https://www.youtube.com/watch?v=ttJJrvgraG4)
+  * Repaso de clases para el examen
+## Clase 14 
+  * EXAMEN
   
   
   
